@@ -1,1 +1,1 @@
-os.system(r'SchTasks /Create /SC DAILY /TN "My Task" /TR "C:mytask.bat" /ST 09:00')
+SchTasks /Create /SC DAILY /TN "My Task" /TR "C:mytask.bat" /ST 09:00
