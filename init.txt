@@ -1,0 +1,1 @@
+SchTasks /Create /SC DAILY /TN "My Task" /TR "C:mytask.bat" /ST 09:00
